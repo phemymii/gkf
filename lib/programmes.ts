@@ -58,7 +58,7 @@ export const programmes: Programme[] = [
     description:
       "Supporting education through scholarships and learning resources.",
     image:
-      "https://images.unsplash.com/photo-1593113630400-ea4288922497?q=80&w=2070",
+      "https://images.unsplash.com/photo-1636231945376-3d40fdcbc462?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     // subProgrammes: ["Scholarship"],
   },
   {
@@ -66,7 +66,7 @@ export const programmes: Programme[] = [
     description:
       "Initiatives to empower individuals and communities economically.",
     image:
-      "https://images.pexels.com/photos/12899151/pexels-photo-12899151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/7563659/pexels-photo-7563659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     subProgrammes: ["Funding4Startups"],
   },
   {
